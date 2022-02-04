@@ -1,0 +1,1 @@
+# -types-serverless-dynamodb-client
